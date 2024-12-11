@@ -2,7 +2,7 @@
   "name": "onedarkpro-rust",
   "displayName": "One Dark Pro Rust",
   "description": "This theme has been modified based on One Dark Pro to make it more compatible with Rust",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.95.0"
   },
