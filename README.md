@@ -9,21 +9,19 @@ I just use vscode command: `>Developer: Generate Color Theme From Current Settin
 ## Effect
 The brackets are not rendered correctly in CodeSnap and other is correct. You can download the theme plugin to exprirence it by youself.
 
-![attribute](/imgs/attribute.png)
-![attribute](/imgs/const-namespce.png)
-![attribute](/imgs/macro.png)
-![attribute](/imgs/struct-enum.png)
+![attribute](https://i.imgur.com/kByQBZa.png)
+![attribute](https://i.imgur.com/OrZpM2n.png)
+![attribute](https://i.imgur.com/zNIZeKO.png)
+![attribute](https://i.imgur.com/EWSUjn3.png)
 
-## Where did you find the color scheme?
+## bugs
 
-I found a useful website [coolors.co](https://coolors.co/), there are many palettes you can try.
+You can visit page [OneDarkPro-Rust - issue](https://github.com/Jiashu-ht/OneDarkPro-Rust/issue) to submit your issues.
 
-## How did I achieve it?
+## License
 
-Almost every programming language have a .tmLanguage.json file to describe how to analyze its tokens. The `"name"` in `/syntax/rust.tmLanguage.json` is the `"scope"` in `/themes/OneDarkPro-Rust.json`, then you can provide some settings to describe how to render the `"scope"` in editor.
+The license is based on MIT.
 
-Here is the link to rust.tmLanguage.json
+## How to achieve it?
 
-[vscode/extensions/rust/syntaxes/rust.tmLanguage.json at main · microsoft/vscode (github.com)](https://github.com/microsoft/vscode/blob/main/extensions/rust/syntaxes/rust.tmLanguage.json)
-
-In every theme.json in `/themes/...`, I add line 2740 - 3151 to it.
+If you are curious about it, you can visit
