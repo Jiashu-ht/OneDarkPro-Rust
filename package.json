@@ -6,11 +6,15 @@
   "engines": {
     "vscode": "^1.95.0"
   },
-  "publisher": "zhuangtongfa && jiashu",
+  "publisher": "jiashu",
   "license": "MIT",
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jiashu-ht/OneDarkPro-Rust"
+  },
   "icon": "icon.png",
   "keywords": [
     "one dark",
