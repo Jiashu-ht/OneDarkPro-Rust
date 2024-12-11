@@ -9,6 +9,8 @@ This theme has been modified based on [One Dark Pro](https://github.com/Binaryif
 ## Effect
 The brackets are not rendered correctly in CodeSnap and other is correct. You can download the theme plugin to exprirence it by youself.
 
+In version 0.0.3 has fixed the braket render issue, you will not see red brakets.
+
 ![attribute](https://i.imgur.com/kByQBZa.png)
 ![attribute](https://i.imgur.com/OrZpM2n.png)
 ![attribute](https://i.imgur.com/zNIZeKO.png)
