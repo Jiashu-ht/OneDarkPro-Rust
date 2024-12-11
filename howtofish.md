@@ -1,3 +1,5 @@
+I just use vscode command: `>Developer: Generate Color Theme From Current Settings` to make a json copy and modify this file.
+
 ## Where did you find the color scheme?
 
 I found a useful website [coolors.co](https://coolors.co/), there are many palettes you can try.
