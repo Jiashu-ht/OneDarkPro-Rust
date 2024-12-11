@@ -1,16 +1,29 @@
 # onedarkpro-rust README
 
-## Working with Markdown
+## Introduction
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+This theme has been modified based on [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) to make it more compatible with Rust.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+I just use vscode command: `>Developer: Generate Color Theme From Current Settings` to make a json copy and modify this file.
 
-## For more information
+## Effect
+The brackets are not rendered correctly in CodeSnap and other is correct. You can download the theme plugin to exprirence it by youself.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![attribute](/imgs/attribute.png)
+![attribute](/imgs/const-namespce.png)
+![attribute](/imgs/macro.png)
+![attribute](/imgs/struct-enum.png)
 
-**Enjoy!**
+## Where did you find the color scheme?
+
+I found a useful website [coolors.co](https://coolors.co/), there are many palettes you can try.
+
+## How did I achieve it?
+
+Almost every programming language have a .tmLanguage.json file to describe how to analyze its tokens. The `"name"` in `/syntax/rust.tmLanguage.json` is the `"scope"` in `/themes/OneDarkPro-Rust.json`, then you can provide some settings to describe how to render the `"scope"` in editor.
+
+Here is the link to rust.tmLanguage.json
+
+[vscode/extensions/rust/syntaxes/rust.tmLanguage.json at main · microsoft/vscode (github.com)](https://github.com/microsoft/vscode/blob/main/extensions/rust/syntaxes/rust.tmLanguage.json)
+
+In every theme.json in `/themes/...`, I add line 2740 - 3151 to it.

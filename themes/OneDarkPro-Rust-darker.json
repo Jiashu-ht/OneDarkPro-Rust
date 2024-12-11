@@ -2792,7 +2792,7 @@
 			// super
 			"scope": "variable.other.rust",
 			"settings": {
-				"foreground": "#ce5753",
+				"foreground": "#e06c75",
 			}
 		},
 		{
