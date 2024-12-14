@@ -4,12 +4,30 @@
 
 This theme has been modified based on [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) to make it more compatible with Rust.
 
+## Impression
 
+### Winter Style
+![attribute](https://i.imgur.com/ZNUgzUQ.png)
 
-## Effect
-The brackets are not rendered correctly in CodeSnap and other is correct. You can download the theme to exprirence it by youself.
+![attribute](https://i.imgur.com/zevhLKn.png)
 
+![attribute](https://i.imgur.com/qthjKl0.png)
 
+![attribute](https://i.imgur.com/4SCFtUQ.png)
+
+![attribute](https://i.imgur.com/00XObyA.png)
+
+![attribute](https://i.imgur.com/EMYU27e.png)
+
+![attribute](https://i.imgur.com/XPv6aiM.png)
+
+![attribute](https://i.imgur.com/5jPIS8u.png)
+
+![attribute](https://i.imgur.com/6Iinl2a.png)
+
+![attribute](https://i.imgur.com/l0Kii2a.png)
+
+### Style based on the One Dark Pro theme
 ![attribute](https://i.imgur.com/v5EKISw.png)
 ![attribute](https://i.imgur.com/o8GpfOw.png)
 ![attribute](https://i.imgur.com/nZI3hia.png)
