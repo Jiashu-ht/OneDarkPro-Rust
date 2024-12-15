@@ -2,7 +2,7 @@
   "name": "onedarkpro-rust",
   "displayName": "One Dark Pro Rust",
   "description": "This theme has been modified based on One Dark Pro to make it more compatible with Rust",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.95.0"
   },
@@ -27,6 +27,11 @@
   ],
   "contributes": {
     "themes": [
+      {
+        "label": "One Dark Pro Rust winter sementic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/OneDarkPro-Rust-winter-with-sementic.json"
+      },
       {
         "label": "One Dark Pro Rust winter",
         "uiTheme": "vs-dark",

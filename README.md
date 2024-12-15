@@ -4,7 +4,29 @@
 
 This theme has been modified based on [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) to make it more compatible with Rust.
 
-## Impression
+### Style
+- Winter Sementic
+    - Semantic highlighting has been enabled.
+- Winter
+    - My color scheme
+- Based on One Dark Pro
+    - One Dark Pro Rust
+    - One Dark Pro Rust flat
+    - One Dark Pro Rust mix
+    - One Dark Pro Rust darker
+
+## Display
+
+### Winter Sementic
+![attribute](https://i.imgur.com/Pw0Cbxc.png)
+
+![attribute](https://i.imgur.com/7RU8USV.png)
+
+![attribute](https://i.imgur.com/hOiieTr.png)
+
+![attribute](https://i.imgur.com/DxmpQA8.png)
+
+![attribute](https://i.imgur.com/WHi9TKu.png)
 
 ### Winter Style
 ![attribute](https://i.imgur.com/ZNUgzUQ.png)
