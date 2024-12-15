@@ -16,7 +16,6 @@ This theme has been modified based on [One Dark Pro](https://github.com/Binaryif
     - One Dark Pro Rust darker
 
 ## Display
-
 ### Winter Sementic
 ![attribute](https://i.imgur.com/Pw0Cbxc.png)
 
