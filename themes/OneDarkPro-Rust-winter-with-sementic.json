@@ -2231,21 +2231,21 @@
 			// mut
 			"scope": "storage.modifier.mut.rust",
 			"settings": {
-				"foreground": "#f2a8ff",
+				"foreground": "#d689ff",
 			}
 		},
 		{
 			// &
 			"scope": "keyword.operator.borrow.and.rust",
 			"settings": {
-				"foreground": "#f2a8ff",
+				"foreground": "#d689ff",
 			}
 		},
 		{
 			// *
 			"scope": "keyword.operator.dereference.rust",
 			"settings": {
-				"foreground": "#f2a8ff",
+				"foreground": "#d689ff",
 			}
 		},
 		{
