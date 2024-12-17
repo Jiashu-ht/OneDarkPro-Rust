@@ -5,21 +5,21 @@
 	"semanticHighlighting": true,
 	"colors": {
 		"actionBar.toggledBackground": "#525761",
-		"activityBar.background": "#282c34",
+		"activityBar.background": "#23272e",
 		"activityBar.foreground": "#d7dae0",
 		"activityBarBadge.background": "#4d78cc",
 		"activityBarBadge.foreground": "#f8fafd",
-		"badge.background": "#282c34",
+		"badge.background": "#23272e",
 		"button.background": "#404754",
 		"button.secondaryBackground": "#30333d",
 		"button.secondaryForeground": "#c0bdbd",
 		"checkbox.border": "#404754",
-		"debugToolBar.background": "#21252b",
+		"debugToolBar.background": "#1e2227",
 		"descriptionForeground": "#abb2bf",
 		"diffEditor.insertedTextBackground": "#00809b33",
-		"dropdown.background": "#21252b",
-		"dropdown.border": "#21252b",
-		"editor.background": "#282c34",
+		"dropdown.background": "#1e2227",
+		"dropdown.border": "#1e2227",
+		"editor.background": "#23272e",
 		"editor.findMatchBackground": "#d19a6644",
 		"editor.findMatchBorder": "#ffffff5a",
 		"editor.findMatchHighlightBackground": "#ffffff22",
@@ -41,11 +41,11 @@
 		"editorCursor.foreground": "#528bff",
 		"editorError.foreground": "#c24038",
 		"editorGroup.border": "#181a1f",
-		"editorGroupHeader.tabsBackground": "#21252b",
+		"editorGroupHeader.tabsBackground": "#1e2227",
 		"editorGutter.addedBackground": "#109868",
 		"editorGutter.deletedBackground": "#9a353d",
 		"editorGutter.modifiedBackground": "#948b60",
-		"editorHoverWidget.background": "#21252b",
+		"editorHoverWidget.background": "#1e2227",
 		"editorHoverWidget.border": "#181a1f",
 		"editorHoverWidget.highlightForeground": "#61afef",
 		"editorIndentGuide.activeBackground1": "#c8c8c859",
@@ -54,14 +54,14 @@
 		"editorInlayHint.foreground": "#abb2bf",
 		"editorLineNumber.activeForeground": "#abb2bf",
 		"editorLineNumber.foreground": "#495162",
-		"editorMarkerNavigation.background": "#21252b",
+		"editorMarkerNavigation.background": "#1e2227",
 		"editorRuler.foreground": "#abb2bf26",
-		"editorSuggestWidget.background": "#21252b",
+		"editorSuggestWidget.background": "#1e2227",
 		"editorSuggestWidget.border": "#181a1f",
 		"editorSuggestWidget.selectedBackground": "#2c313a",
 		"editorWarning.foreground": "#d19a66",
 		"editorWhitespace.foreground": "#ffffff1d",
-		"editorWidget.background": "#21252b",
+		"editorWidget.background": "#1e2227",
 		"focusBorder": "#3e4452",
 		"gitDecoration.ignoredResourceForeground": "#636b78",
 		"input.background": "#1d1f23",
@@ -82,7 +82,7 @@
 		"minimapGutter.deletedBackground": "#9a353d",
 		"minimapGutter.modifiedBackground": "#948b60",
 		"panel.border": "#3e4452",
-		"panelSectionHeader.background": "#21252b",
+		"panelSectionHeader.background": "#1e2227",
 		"peekViewEditor.background": "#1b1d23",
 		"peekViewEditor.matchHighlightBackground": "#29244b",
 		"peekViewResult.background": "#22262b",
@@ -90,26 +90,26 @@
 		"scrollbarSlider.activeBackground": "#747d9180",
 		"scrollbarSlider.background": "#4e566660",
 		"scrollbarSlider.hoverBackground": "#5a637580",
-		"settings.focusedRowBackground": "#282c34",
+		"settings.focusedRowBackground": "#23272e",
 		"settings.headerForeground": "#ffffff",
-		"sideBar.background": "#21252b",
+		"sideBar.background": "#1e2227",
 		"sideBar.foreground": "#abb2bf",
-		"sideBarSectionHeader.background": "#282c34",
+		"sideBarSectionHeader.background": "#23272e",
 		"sideBarSectionHeader.foreground": "#abb2bf",
-		"statusBar.background": "#21252b",
+		"statusBar.background": "#1e2227",
 		"statusBar.debuggingBackground": "#cc6633",
 		"statusBar.debuggingBorder": "#ff000000",
 		"statusBar.debuggingForeground": "#ffffff",
 		"statusBar.foreground": "#9da5b4",
-		"statusBar.noFolderBackground": "#21252b",
+		"statusBar.noFolderBackground": "#1e2227",
 		"statusBarItem.remoteBackground": "#4d78cc",
 		"statusBarItem.remoteForeground": "#f8fafd",
-		"tab.activeBackground": "#282c34",
+		"tab.activeBackground": "#23272e",
 		"tab.activeBorder": "#b4b4b4",
 		"tab.activeForeground": "#dcdcdc",
 		"tab.border": "#181a1f",
 		"tab.hoverBackground": "#323842",
-		"tab.inactiveBackground": "#21252b",
+		"tab.inactiveBackground": "#1e2227",
 		"tab.unfocusedHoverBackground": "#323842",
 		"terminal.ansiBlack": "#3f4451",
 		"terminal.ansiBlue": "#4aa5f0",
@@ -127,7 +127,7 @@
 		"terminal.ansiRed": "#e05561",
 		"terminal.ansiWhite": "#d7dae0",
 		"terminal.ansiYellow": "#d18f52",
-		"terminal.background": "#282c34",
+		"terminal.background": "#23272e",
 		"terminal.border": "#3e4452",
 		"terminal.foreground": "#abb2bf",
 		"terminal.selectionBackground": "#abb2bf30",
@@ -135,9 +135,9 @@
 		"textBlockQuote.border": "#4b5362",
 		"textLink.foreground": "#61afef",
 		"textPreformat.foreground": "#d19a66",
-		"titleBar.activeBackground": "#282c34",
+		"titleBar.activeBackground": "#23272e",
 		"titleBar.activeForeground": "#9da5b4",
-		"titleBar.inactiveBackground": "#282c34",
+		"titleBar.inactiveBackground": "#23272e",
 		"titleBar.inactiveForeground": "#6b717d",
 		"tree.indentGuidesStroke": "#ffffff1d",
 		"walkThrough.embeddedEditorBackground": "#2e3440",
@@ -606,9 +606,10 @@
 			}
 		},
 		{
+			// 命名空间
 			"scope": "entity.name.namespace",
 			"settings": {
-				"foreground": "#ff6a85"
+				"foreground": "#dd6a62"
 			}
 		},
 		{
@@ -661,7 +662,7 @@
 				"variable.function"
 			],
 			"settings": {
-				"foreground": "#bbd0ff"
+				"foreground": "#a0b4df"
 			}
 		},
 		{
@@ -673,7 +674,7 @@
 		{
 			"scope": "support.class, entity.name.type.class",
 			"settings": {
-				"foreground": "#f9dc5c"
+				"foreground": "#dabe43"
 			}
 		},
 		{
@@ -701,7 +702,7 @@
 		{
 			"scope": "entity.name.type",
 			"settings": {
-				"foreground": "#f9dc5c"
+				"foreground": "#cab13e"
 			}
 		},
 		{
@@ -749,7 +750,7 @@
 		{
 			"scope": "support.function",
 			"settings": {
-				"foreground": "#bbd0ff"
+				"foreground": "#a0b4df"
 			}
 		},
 		{
@@ -2005,14 +2006,14 @@
 			// [Ss]elf
 			"scope": "variable.language.self.rust",
 			"settings": {
-				"foreground": "#f07167",
+				"foreground": "#d689ff",
 			}
 		},
 		{
 			// super
 			"scope": "variable.language.super.rust",
 			"settings": {
-				"foreground": "#f07167",
+				"foreground": "#d689ff",
 			}
 		},
 
@@ -2036,20 +2037,21 @@
 		{
 			"scope": "variable.other.rust",
 			"settings": {
-				"foreground": "#e9edc9",
+				"foreground": "#c3c7a7",
 			}
 		},
 		{
+			// 函数参数 dd6a62
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#dd6a62",
+				"foreground": "#db5971",
 			}
 		},
 		{
 			// rust enum fcb893
 			"scope": "variable.other.enummember",
 			"settings": {
-				"foreground": "#faa34c",
+				"foreground": "#dd9043",
 			}
 		},
 		{
@@ -2063,14 +2065,14 @@
 			// 属性字段的颜色 如 self.attribute 对应这里的attribute
 			"scope": "variable.other.property",
 			"settings": {
-				"foreground": "#fcb893",
+				"foreground": "#dfa180",
 			}
 		},
 		{
 			// 常量
 			"scope": "variable.other.constant",
 			"settings": {
-				"foreground": "#ff7dc3",
+				"foreground": "#e26eac",
 			}
 		},
 
@@ -2087,16 +2089,16 @@
 			// 函数名
 			"scope": "entity.name.function.rust",
 			"settings": {
-				"foreground": "#bbd0ff",
+				"foreground": "#a0b4df",
 			}
 		},
 
 		// 命名空间
 		{
-			// 路径颜色
+			// 路径颜色 ff6a85
 			"scope": "entity.name.namespace.rust",
 			"settings": {
-				"foreground": "#ff6a85",
+				"foreground": "#dd6a62",
 			}
 		},
 		{
@@ -2142,26 +2144,26 @@
 			// struct、enum、trait名颜色 e5c078
 			"scope": "entity.name.type.rust",
 			"settings": {
-				"foreground": "#f9dc5c",
+				"foreground": "#cab13e",
 			}
 		},
-		// 声明时 struct、enum、trait名颜色
+		// 声明时 struct、enum、trait名颜色 f9dc5c
 		{
 			"scope": "entity.name.type.struct.rust",
 			"settings": {
-				"foreground": "#f9dc5c",
+				"foreground": "#cab13e",
 			}
 		},
 		{
 			"scope": "entity.name.type.trait.rust",
 			"settings": {
-				"foreground": "#f9dc5c",
+				"foreground": "#cab13e",
 			}
 		},
 		{
 			"scope": "entity.name.type.enum.rust",
 			"settings": {
-				"foreground": "#f9dc5c",
+				"foreground": "#cab13e",
 			}
 		},
 
@@ -2170,21 +2172,21 @@
 			// bool|char|str
 			"scope": "entity.name.type.primitive.rust",
 			"settings": {
-				"foreground": "#f9dc5c",
+				"foreground": "#cab13e",
 			}
 		},
 		{
 			// f32|f64|i128|i16|i32|i64|i8|isize|u128|u16|u32|u64|u8|usize
 			"scope": "entity.name.type.numeric.rust",
 			"settings": {
-				"foreground": "#f9dc5c",
+				"foreground": "#cab13e",
 			}
 		},
 		{
 			// f32|f64|i128|i16|i32|i64|i8|isize|u128|u16|u32|u64|u8|usize
 			"scope": "support.type.primitive.rust",
 			"settings": {
-				"foreground": "#f9dc5c",
+				"foreground": "#dabe43",
 			}
 		},
 
@@ -2496,7 +2498,7 @@
 			// macro_rules! 这个词的颜色
 			"scope": "entity.name.function.macro.rules.rust",
 			"settings": {
-				"foreground": "#d689ff",
+				"foreground": "#be7ae2",
 			}
 		},
 		{
