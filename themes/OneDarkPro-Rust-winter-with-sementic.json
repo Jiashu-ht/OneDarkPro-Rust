@@ -2035,6 +2035,7 @@
 
 		// 变量
 		{
+			// c3c7a7
 			"scope": "variable.other.rust",
 			"settings": {
 				"foreground": "#c3c7a7",
@@ -2551,5 +2552,21 @@
 			}
 		},
 		//******************** Rust Impression ********************
+		
+		// C#
+		{
+			// 局部变量颜色
+			"scope": "variable.other.readwrite",
+			"settings": {
+				"foreground": "#c3c7a7",
+			}
+		},
+		{
+			// 接口名颜色
+			"scope": "entity.name.type.interface",
+			"settings": {
+				"foreground": "#df57bc",
+			}
+		},
 	]
 }
