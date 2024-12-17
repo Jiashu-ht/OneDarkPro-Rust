@@ -2144,26 +2144,33 @@
 			// struct、enum、trait名颜色 e5c078
 			"scope": "entity.name.type.rust",
 			"settings": {
-				"foreground": "#cab13e",
+				"foreground": "#dbbf44",
 			}
 		},
 		// 声明时 struct、enum、trait名颜色 f9dc5c
 		{
 			"scope": "entity.name.type.struct.rust",
 			"settings": {
-				"foreground": "#cab13e",
+				"foreground": "#dbbf44",
 			}
 		},
 		{
 			"scope": "entity.name.type.trait.rust",
 			"settings": {
-				"foreground": "#cab13e",
+				"foreground": "#dbbf44",
 			}
 		},
 		{
 			"scope": "entity.name.type.enum.rust",
 			"settings": {
-				"foreground": "#cab13e",
+				"foreground": "#dbbf44",
+			}
+		},
+		{
+			// 泛型
+			"scope": "entity.name.type.parameter",
+			"settings": {
+				"foreground": "#df57bc",
 			}
 		},
 
@@ -2172,14 +2179,14 @@
 			// bool|char|str
 			"scope": "entity.name.type.primitive.rust",
 			"settings": {
-				"foreground": "#cab13e",
+				"foreground": "#dbbf44",
 			}
 		},
 		{
 			// f32|f64|i128|i16|i32|i64|i8|isize|u128|u16|u32|u64|u8|usize
 			"scope": "entity.name.type.numeric.rust",
 			"settings": {
-				"foreground": "#cab13e",
+				"foreground": "#dbbf44",
 			}
 		},
 		{
