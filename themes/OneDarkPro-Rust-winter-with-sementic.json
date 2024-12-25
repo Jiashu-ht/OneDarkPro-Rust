@@ -192,12 +192,7 @@
 				"foreground": "#E5C07B"
 			}
 		},
-		{
-			"scope": "storage.modifier.lifetime.rust",
-			"settings": {
-				"foreground": "#ffc0be"
-			}
-		},
+		
 		// {
 		// 	"scope": "support.function.std.rust",
 		// 	"settings": {
@@ -606,10 +601,10 @@
 			}
 		},
 		{
-			// 命名空间
+			// 命名空间 fed9b7
 			"scope": "entity.name.namespace",
 			"settings": {
-				"foreground": "#dd6a62"
+				"foreground": "#e26c64"
 			}
 		},
 		{
@@ -674,7 +669,7 @@
 		{
 			"scope": "support.class, entity.name.type.class",
 			"settings": {
-				"foreground": "#dabe43"
+				"foreground": "#d8be4b"
 			}
 		},
 		{
@@ -798,7 +793,7 @@
 		{
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#f79256"
+				"foreground": "#e4854e"
 			}
 		},
 		{
@@ -2038,14 +2033,14 @@
 			// c3c7a7
 			"scope": "variable.other.rust",
 			"settings": {
-				"foreground": "#c3c7a7",
+				"foreground": "#cab097",
 			}
 		},
 		{
 			// 函数参数 dd6a62
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#db5971",
+				"foreground": "#d1556c",
 			}
 		},
 		{
@@ -2090,16 +2085,16 @@
 			// 函数名
 			"scope": "entity.name.function.rust",
 			"settings": {
-				"foreground": "#a0b4df",
+				"foreground": "#8ba2d3",
 			}
 		},
 
 		// 命名空间
 		{
-			// 路径颜色 ff6a85
+			// 路径颜色 
 			"scope": "entity.name.namespace.rust",
 			"settings": {
-				"foreground": "#dd6a62",
+				"foreground": "#e76e65",
 			}
 		},
 		{
@@ -2126,17 +2121,23 @@
 
 		// 生命周期
 		{
+			"scope": "storage.modifier.lifetime.rust",
+			"settings": {
+				"foreground": "#df57bc"
+			}
+		},
+		{
 			// '
 			"scope": "punctuation.definition.lifetime.rust",
 			"settings": {
-				"foreground": "#ffc0be",
+				"foreground": "#df57bc",
 			}
 		},
 		{
 			// 声明周期名称 'a
 			"scope": "entity.name.type.lifetime.rust",
 			"settings": {
-				"foreground": "#ffc0be",
+				"foreground": "#df57bc",
 			}
 		},
 
@@ -2145,26 +2146,32 @@
 			// struct、enum、trait名颜色 e5c078
 			"scope": "entity.name.type.rust",
 			"settings": {
-				"foreground": "#dbbf44",
+				"foreground": "#cab762",
 			}
 		},
 		// 声明时 struct、enum、trait名颜色 f9dc5c
 		{
 			"scope": "entity.name.type.struct.rust",
 			"settings": {
-				"foreground": "#dbbf44",
+				"foreground": "#cab762",
 			}
 		},
 		{
 			"scope": "entity.name.type.trait.rust",
 			"settings": {
-				"foreground": "#dbbf44",
+				"foreground": "#cab762",
 			}
 		},
 		{
 			"scope": "entity.name.type.enum.rust",
 			"settings": {
-				"foreground": "#dbbf44",
+				"foreground": "#cab762",
+			}
+		},
+		{
+			"scope": "entity.name.type.declaration.rust",
+			"settings": {
+				"foreground": "#cab762",
 			}
 		},
 		{
@@ -2180,21 +2187,21 @@
 			// bool|char|str
 			"scope": "entity.name.type.primitive.rust",
 			"settings": {
-				"foreground": "#dbbf44",
+				"foreground": "#cab762",
 			}
 		},
 		{
 			// f32|f64|i128|i16|i32|i64|i8|isize|u128|u16|u32|u64|u8|usize
 			"scope": "entity.name.type.numeric.rust",
 			"settings": {
-				"foreground": "#dbbf44",
+				"foreground": "#cab762",
 			}
 		},
 		{
 			// f32|f64|i128|i16|i32|i64|i8|isize|u128|u16|u32|u64|u8|usize
 			"scope": "support.type.primitive.rust",
 			"settings": {
-				"foreground": "#dabe43",
+				"foreground": "#cab762",
 			}
 		},
 
@@ -2534,14 +2541,14 @@
 			// $ 符号颜色
 			"scope": "keyword.operator.macro.dollar.rust",
 			"settings": {
-				"foreground": "#f3d5b5",
+				"foreground": "#ddc2a4",
 			}
 		},
 		{
 			// 元变量名称颜色，$后跟着的标识符
 			"scope": "variable.other.metavariable.name.rust",
 			"settings": {
-				"foreground": "#f3d5b5",
+				"foreground": "#ddc2a4",
 			}
 		},
 		{
