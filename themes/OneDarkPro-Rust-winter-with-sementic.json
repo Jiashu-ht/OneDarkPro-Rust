@@ -2033,7 +2033,7 @@
 			// c3c7a7
 			"scope": "variable.other.rust",
 			"settings": {
-				"foreground": "#cab097",
+				"foreground": "#cfc6b1",
 			}
 		},
 		{
@@ -2146,32 +2146,32 @@
 			// struct、enum、trait名颜色 e5c078
 			"scope": "entity.name.type.rust",
 			"settings": {
-				"foreground": "#cab762",
+				"foreground": "#d6c05f",
 			}
 		},
 		// 声明时 struct、enum、trait名颜色 f9dc5c
 		{
 			"scope": "entity.name.type.struct.rust",
 			"settings": {
-				"foreground": "#cab762",
+				"foreground": "#d6c05f",
 			}
 		},
 		{
 			"scope": "entity.name.type.trait.rust",
 			"settings": {
-				"foreground": "#cab762",
+				"foreground": "#d6c05f",
 			}
 		},
 		{
 			"scope": "entity.name.type.enum.rust",
 			"settings": {
-				"foreground": "#cab762",
+				"foreground": "#d6c05f",
 			}
 		},
 		{
 			"scope": "entity.name.type.declaration.rust",
 			"settings": {
-				"foreground": "#cab762",
+				"foreground": "#d6c05f",
 			}
 		},
 		{
@@ -2187,21 +2187,21 @@
 			// bool|char|str
 			"scope": "entity.name.type.primitive.rust",
 			"settings": {
-				"foreground": "#cab762",
+				"foreground": "#d6c05f",
 			}
 		},
 		{
 			// f32|f64|i128|i16|i32|i64|i8|isize|u128|u16|u32|u64|u8|usize
 			"scope": "entity.name.type.numeric.rust",
 			"settings": {
-				"foreground": "#cab762",
+				"foreground": "#d6c05f",
 			}
 		},
 		{
 			// f32|f64|i128|i16|i32|i64|i8|isize|u128|u16|u32|u64|u8|usize
 			"scope": "support.type.primitive.rust",
 			"settings": {
-				"foreground": "#cab762",
+				"foreground": "#d6c05f",
 			}
 		},
 
